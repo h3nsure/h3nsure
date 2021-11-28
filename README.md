@@ -9,7 +9,7 @@ Affiliated to Uttar Pradesh Technical University, Lucknow
 | *Percentage: 85.88/100*
 #### INTERMEDIATE, SCIENCE, MATHEMATICS (2017)
 Jawahar Navodaya Vidyalaya, Kushinagar
-CBSE | *Percentage: 81.0/100*
+CBSE | *Percentage: 81.2/100*
 #### HIGH SCHOOL, SCIENCE, MATHEMATICS (2014)
 Jawahar Navodaya Vidyalaya, Kushinagar
 CBSE | *CGPA: 9.2/10*
