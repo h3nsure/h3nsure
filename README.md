@@ -13,3 +13,5 @@ CBSE | *Percentage: 81.2/100*
 #### HIGH SCHOOL, SCIENCE, MATHEMATICS (2014)
 Jawahar Navodaya Vidyalaya, Kushinagar
 CBSE | *CGPA: 9.2/10*
+#### Key Skills
+Java , Servlet , JSP, Sql, MySql , HTML, CSS, Bootstrap
