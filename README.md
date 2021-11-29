@@ -17,4 +17,4 @@ CBSE | *CGPA: 9.2/10*
 #### Key Skills
 Java , Servlet , JSP, Sql, MySql , HTML, CSS, Bootstrap
 #### ---------------------------------------
-<img src="https://user-images.githubusercontent.com/51831690/143918771-9bbab0c7-ca99-4380-a6d9-b9d9d29deb25.png" alt="hi" class="inline" height="50px" width="50px"><img src="https://user-images.githubusercontent.com/51831690/143919400-ee408e97-00f0-4dbe-a424-ba9749acea61.png" alt="hi" class="inline" height="50px" width="50px">
+<img src="https://user-images.githubusercontent.com/51831690/143918771-9bbab0c7-ca99-4380-a6d9-b9d9d29deb25.png" alt="hi" class="inline" height="80px" width="80px"><img src="https://user-images.githubusercontent.com/51831690/143919400-ee408e97-00f0-4dbe-a424-ba9749acea61.png" alt="hi" class="inline" height="80px" width="80px">
