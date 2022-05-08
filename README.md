@@ -7,7 +7,7 @@ Exceedingly focused **Entry Level Java Developer** with an impressive work ethic
 | DEC 2021 - PRESENT
 ### EDUCATION
 #### B.TECH, INFORMATION TECHNOLOGY (2021)
-Babu Banarasi Das Institute of Technology and Management (formally BBDNITM), Lucknow
+Babu Banarasi Das Institute of Technology and Management (formerly BBDNITM), Lucknow
 Affiliated to Uttar Pradesh Technical University, Lucknow
 | *Percentage: 85.88/100*
 
