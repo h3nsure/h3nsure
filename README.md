@@ -5,11 +5,18 @@ Exceedingly focused **Salesforce Developer and Salesforce Certified Administrato
 ### EXPERIENCE
 1. Application Development Associate at Accenture 
 | DEC 2021 - PRESENT
+### CERTIFICATIONs
+1. Salesforce Certified Administrator
+2. Salesforce Certified Platform App Builder
+3. Salesforce Platform Developer 1
+4. Java (Core)
+5. Advanced Java
+6. TCS iON Career Edge
 ### EDUCATION
 #### B.TECH, INFORMATION TECHNOLOGY (2021)
 Babu Banarasi Das Institute of Technology and Management (formerly BBDNITM), Lucknow
 Affiliated to Uttar Pradesh Technical University, Lucknow
-| *Percentage: 85.88/100*
+| *Percentage: 88.1/100*
 
 #### INTERMEDIATE, SCIENCE, MATHEMATICS (2017)
 Jawahar Navodaya Vidyalaya, Kushinagar
@@ -17,8 +24,16 @@ CBSE | *Percentage: 81.2/100*
 #### HIGH SCHOOL, SCIENCE, MATHEMATICS (2014)
 Jawahar Navodaya Vidyalaya, Kushinagar
 CBSE | *CGPA: 9.2/10*
+
+### TRAINING
+SALESFORCE DEVELOPMENT         (JAN 22- JUN 22)
+(TECHGENIC STREAM TRAINING)
+Accenture, Gurugram
+### COURSES
+UDEMY COURSE                   (JUN 22- SEP 22)
+The Complete Salesforce Development
+course By Manish Choudhary
 #### Key Skills
 Salesforce Development, Salesforce Administrator, Apex, SOQL, SOSL, Triggers in Apex,
 Java , Servlet , JSP, Sql, MySql , HTML, CSS, Bootstrap
-#### ---------------------------------------
-<img src="https://user-images.githubusercontent.com/51831690/143918771-9bbab0c7-ca99-4380-a6d9-b9d9d29deb25.png" alt="hi" class="inline" height="80px" width="80px"><img src="https://user-images.githubusercontent.com/51831690/143919400-ee408e97-00f0-4dbe-a424-ba9749acea61.png" alt="hi" class="inline" height="80px" width="80px">
+
