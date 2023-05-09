@@ -5,7 +5,7 @@ Exceedingly focused **Salesforce Developer and Salesforce Certified Administrato
 ### EXPERIENCE
 1. Application Development Associate at Accenture 
 | DEC 2021 - PRESENT
-### CERTIFICATIONs
+#### CERTIFICATIONs
 1. Salesforce Certified Administrator
 2. Salesforce Certified Platform App Builder
 3. Salesforce Platform Developer 1
@@ -25,12 +25,12 @@ CBSE | *Percentage: 81.2/100*
 Jawahar Navodaya Vidyalaya, Kushinagar
 CBSE | *CGPA: 9.2/10*
 
-### TRAINING
-SALESFORCE DEVELOPMENT         (JAN 22- JUN 22)
+#### TRAINING
+##### SALESFORCE DEVELOPMENT         (JAN 22- JUN 22)
 (TECHGENIC STREAM TRAINING)
 Accenture, Gurugram
-### COURSES
-UDEMY COURSE                   (JUN 22- SEP 22)
+#### COURSES
+##### UDEMY COURSE                   (JUN 22- SEP 22)
 The Complete Salesforce Development
 course By Manish Choudhary
 #### Key Skills
