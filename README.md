@@ -6,12 +6,13 @@ Exceedingly focused **Salesforce Developer and Salesforce Certified Administrato
 1. Application Development Associate at Accenture 
 | DEC 2021 - PRESENT
 #### CERTIFICATIONs
-1. Salesforce Certified Administrator
-2. Salesforce Certified Platform App Builder
-3. Salesforce Platform Developer 1
-4. Java (Core)
-5. Advanced Java
-6. TCS iON Career Edge
+1. Salesforce Certified Associate
+2. Salesforce Certified Administrator
+3. Salesforce Certified Platform App Builder
+4. Salesforce Platform Developer 1
+5. Java (Core)
+6. Advanced Java
+7. TCS iON Career Edge
 ### EDUCATION
 #### B.TECH, INFORMATION TECHNOLOGY (2021)
 Babu Banarasi Das Institute of Technology and Management (formerly BBDNITM), Lucknow
