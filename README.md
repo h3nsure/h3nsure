@@ -3,8 +3,10 @@
 ### SUMMARY
 Exceedingly focused **Salesforce Developer and Salesforce Certified Administrator** with an impressive work ethic and computer-oriented language knowledge domain. Proficient at explaining complex computer development concepts and processes. Able to work well independently or as a part of the development team with an excellent team management skill.
 ### EXPERIENCE
-1. Application Development Associate at Accenture 
-| DEC 2021 - PRESENT
+1. Application Development Analyst at Accenture
+| MAR 2024 - Present
+2. Application Development Associate at Accenture 
+| DEC 2021 - FEB 2024
 #### CERTIFICATIONs
 1. Salesforce Certified Associate
 2. Salesforce Certified Administrator
@@ -36,5 +38,5 @@ The Complete Salesforce Development
 course By Manish Choudhary
 #### Key Skills
 Salesforce Development, Salesforce Administrator, Apex, SOQL, SOSL, Triggers in Apex,
-Java , Servlet , JSP, Sql, MySql , HTML, CSS, Bootstrap
+Lightning web Component, Salesforce Integrations, Flows ,Java , Sql, MySql , HTML, CSS, Bootstrap
 
