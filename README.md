@@ -1,7 +1,17 @@
 ### **Hi there** 👋
 ![Hemant](https://user-images.githubusercontent.com/51831690/143681653-17134edd-1ca8-44c5-8c73-0c6d1f7f1f7c.gif)
 ### SUMMARY
-Exceedingly focused **Salesforce Developer and Salesforce Certified Administrator** with an impressive work ethic and computer-oriented language knowledge domain. Proficient at explaining complex computer development concepts and processes. Able to work well independently or as a part of the development team with an excellent team management skill.
+- Over **2.5 years** of IT experience, **Certified Salesforce.com Platform Developer**, and excellent experience as Salesforce Admin as well.
+- Experience in SFDC Development implementing the **APEX Classes, APEX Triggers, and Visual Force
+pages, Force.com IDE, SOQL, SOSL, Salesforce Lightning, and LWC.**
+- Experienced working in Cross - functional teams, identifying business requirements, and working in **Agile methodology**.
+- Implemented **Security** and **Sharing rules, permission sets** at Object Field and Record levels for different users in
+the organization.
+- Experience in **Sales cloud** implementations, salesforce.com sandboxes, and production environments.
+- Highly motivated team player with excellent communication, presentation, and interpersonal skills.
+Willing to work in a challenging and cross-platform environment.
+- Capable of rapidly learning new technologies and processes, and successfully applying them to
+projects and operations.
 ### EXPERIENCE
 1. Application Development Analyst at Accenture
 | MAR 2024 - Present
