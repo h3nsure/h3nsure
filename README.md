@@ -1,7 +1,7 @@
 ### **Hi there** 👋
 ![Hemant](https://user-images.githubusercontent.com/51831690/143681653-17134edd-1ca8-44c5-8c73-0c6d1f7f1f7c.gif)
 ### SUMMARY
-- Over **2.5 years** of IT experience, **Certified Salesforce.com Platform Developer**, and excellent experience as Salesforce Admin as well.
+- Over **3+ years** of IT experience, **Certified Salesforce.com Platform Developer**, and excellent experience as Salesforce Admin as well.
 - Experience in SFDC Development implementing the **APEX Classes, APEX Triggers, and Visual Force
 pages, Force.com IDE, SOQL, SOSL, Salesforce Lightning, and LWC.**
 - Experienced working in Cross - functional teams, identifying business requirements, and working in **Agile methodology**.
