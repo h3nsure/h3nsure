@@ -13,9 +13,11 @@ Willing to work in a challenging and cross-platform environment.
 - Capable of rapidly learning new technologies and processes, and successfully applying them to
 projects and operations.
 ### EXPERIENCE
-1. Application Development Analyst at Accenture
-| MAR 2024 - Present
-2. Application Development Associate at Accenture 
+1. Technical Engineer at Salesforce
+| August 2024 - Present
+2. Application Development Analyst at Accenture
+| MAR 2024 - August 2024
+3. Application Development Associate at Accenture 
 | DEC 2021 - FEB 2024
 #### CERTIFICATIONs
 1. Salesforce Certified Associate
